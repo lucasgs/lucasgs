@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lucas. I'm a passionate software developer, who likes technology and create new things.
+### Hi there 👋 I'm Lucas. I'm a passionate software developer, who likes technology and creating new things.
 
 - 🧑🏻‍💻 I’m currently working on Android  apps and IoT
 - 💻 Languages: Kotlin, Java, ...
