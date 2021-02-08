@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas. I'm a passionate software developer, who likes technology and creating new things.
 
-- 🧑🏻‍💻 I’m currently working on Android  apps and IoT
+- 🧑🏻‍💻 I’m currently working on Android  apps and BLE
 - 💻 Languages: Kotlin, Java, ...
 - ❤️ Open source lover
 - 💬 Ask me about tech
